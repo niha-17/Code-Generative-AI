@@ -1,0 +1,2 @@
+# Code-Generative-AI
+An AI-powered code generation platform developed with Streamlit, integrating LLaMA models via Ollama for offline inference. The system also supports OCR to extract code-related text from images and documents.
